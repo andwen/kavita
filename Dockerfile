@@ -43,4 +43,4 @@ RUN \
 COPY /root /
 
 # ports and volumes
-EXPOSE 5000
+EXPOSE 443
